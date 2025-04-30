@@ -38,7 +38,7 @@ empTable.addEventListener('click', (e) => {
             garrEmployees.splice(rowIndex-1, 1);
             console.log(rowIndex)
             console.log(garrEmployees)
-            
+
             empCount.value = `(${garrEmployees.length})`
         }
     }
