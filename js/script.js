@@ -7,7 +7,7 @@ import init from '../modules/init.js'
 //     [12341244, "Mark Martin", 5352, "mark@vectacorp.com", "Sales"],
 //     [14545423, "Robin Banks", 7867, "robin@vectacorp.com", "Marketing"],
 //     [13413453, "Sue Wedge", 1235, "sue@vectacorp.com", "QA"]
-// ]
+// ] 
 
 // GET DOM ELEMENTS
 let empTable    = document.querySelector('#employees')

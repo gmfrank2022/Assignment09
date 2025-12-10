@@ -5,7 +5,7 @@ async function init() {
 		const employees = await response.json()
 
 		return employees
-
+ 
         // let employees0=[]
 		// for (let employee of employees) {
         //     //Use 2D array

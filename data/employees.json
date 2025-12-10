@@ -20,13 +20,13 @@
         "email": "mark@vectacorp.com",
         "title": "Sales"
     },
-    {
+    { 
         "id": 14545423,
         "name": "Robin Banks",
         "ext": "7867",
         "email": "robin@vectacorp.com",
         "title": "Marketing"
-    },
+    }, 
     {
         "id": 13413453,
         "name": "Sue Wedge",
